@@ -774,9 +774,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -787,9 +785,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -800,9 +796,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -813,9 +807,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 95.1,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -826,9 +818,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 92.7,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -839,9 +829,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -852,9 +840,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 93.3,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -865,9 +851,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.7,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -878,9 +862,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 49.7,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -891,9 +873,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 94.1,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -904,9 +884,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -917,9 +895,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -930,9 +906,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 51.0,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -943,9 +917,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 93.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -956,9 +928,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 188.2,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -969,9 +939,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 125.1,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -982,9 +950,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 25.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -995,9 +961,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 25.900000000000002,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1008,9 +972,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 25.3,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1021,9 +983,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 26.8,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1034,9 +994,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 26.700000000000003,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1047,9 +1005,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 26.200000000000003,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1060,9 +1016,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 25.8,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1073,9 +1027,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 61.5,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1086,9 +1038,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 66.6,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/PV/DAY_AHEAD_pv.csv"
     },
     {
@@ -1502,9 +1452,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 148.3,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/WIND/DAY_AHEAD_wind.csv"
     },
     {
@@ -1515,9 +1463,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 799.1,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/WIND/DAY_AHEAD_wind.csv"
     },
     {
@@ -1528,9 +1474,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 847.0000000000001,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/WIND/DAY_AHEAD_wind.csv"
     },
     {
@@ -1541,9 +1485,7 @@
         "module": "PowerSystems",
         "type": "SingleTimeSeries",
         "name": "max_active_power",
-        "scaling_factor_multiplier": "get_max_active_power",
-        "scaling_factor_multiplier_module": "PowerSystems",
-        "normalization_factor": 713.5,
+	"normalization_factor": 1,
         "data_file": "../../timeseries_data_files/WIND/DAY_AHEAD_wind.csv"
     },
     {
